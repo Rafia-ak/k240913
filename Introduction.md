@@ -1,4 +1,0 @@
-- Programming Fundamentals is course CS1002 in FAST.
-- This course covers the basic fundamentals of programming required for enthusiasts or budding coders.
-- It is an introductory course for you to venture into the world of programming.
-- This course will introduce you to a powerful problem-solving process which you can use to solve any programming problem.
